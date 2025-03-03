@@ -5,7 +5,7 @@ $execTime = Get-Date
 
 Write-Host "Created by github.com/dyeadal"
 Write-Host ""
-Write-Host "Netstat Scanner"
+Write-Host "Vigilant Netstat"
 Write-Host ""
 
 $formattedTime = $execTime.ToString("MMddyyyy_HHmmss")
